@@ -68,28 +68,28 @@ input:focus, textarea:focus {
 
 a.button1, input.button1,
 a.button2, input.button2 {
-       margin:0px 0;
-       padding: 1px 5px;
-       white-space: nowrap;
-       vertical-align: middle;
-       line-height: middle;
-       font: 11px Sans-Serif; /* bold */
-       color: #000000;
-       background: transparent none 0 0 no-repeat;
-       -webkit-transition:all 250ms linear;
-       -moz-transition:all 250ms linear;
-       -o-transition:all 250ms linear;
-       -webkit-appearance: none; /* stop mobile safari from using default button styles */
-       border: 1px solid #12A2EA;
-       -moz-border-radius: 6px;
-       -webkit-border-radius: 6px;
-       border-radius: 6px;
-       -webkit-box-shadow: 0 1px 1px #fff;
-       -moz-box-shadow:    0 1px 1px #fff;
-       box-shadow:      0 1px 1px #000000;
-       text-shadow: 0 0px 0px white;
-       background: #eee;
-       cursor: pointer;
+    margin:0px 0;
+    padding: 1px 5px;
+    white-space: nowrap;
+    vertical-align: middle;
+    line-height: middle;
+    font: 11px Sans-Serif; /* bold */
+    color: #000000;
+    background: transparent none 0 0 no-repeat;
+    -webkit-transition:all 250ms linear;
+    -moz-transition:all 250ms linear;
+    -o-transition:all 250ms linear;
+    -webkit-appearance: none; /* stop mobile safari from using default button styles */
+    border: 1px solid #12A2EA;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    border-radius: 6px;
+    -webkit-box-shadow: 0 1px 1px #fff;
+    -moz-box-shadow:    0 1px 1px #fff;
+    box-shadow:      0 1px 1px #000000;
+    text-shadow: 0 0px 0px white;
+    background: #eee;
+    cursor: pointer;
 }
 
 
