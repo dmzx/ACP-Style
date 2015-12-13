@@ -1,5 +1,7 @@
 # phpBB ACP Style Extension
 
+[![Build Status](https://travis-ci.org/dmzx/ACP-Style.svg?branch=master)](https://travis-ci.org/dmzx/ACP-Style)
+
 ## Install
 
 1. Download the latest release.
